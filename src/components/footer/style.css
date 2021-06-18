@@ -1,0 +1,26 @@
+.footer {
+  background-color: rgb(49, 44, 44);
+  color: white;
+  display: flex;
+  padding: 0 5rem;
+  justify-content: space-between;
+  letter-spacing: 1px;
+  font-weight: 200;
+}
+.copyright {
+  margin: auto 0;
+  font-family: "Lato", sans-serif;
+  letter-spacing: 3px;
+  padding: 7rem 0 5rem 0;
+}
+.contact {
+  font-weight: 800;
+  font-family: "lato";
+  margin: 1em;
+  letter-spacing: 2px;
+  text-align: left;
+  font-size: 2rem;
+}
+.me {
+  font-size: 1rem;
+}

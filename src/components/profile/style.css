@@ -1,0 +1,27 @@
+.hero {
+  height: 80vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 7rem 0 5rem 0;
+  background-image: linear-gradient(
+    to right,
+    #4b3a84,
+    #483887,
+    #443789,
+    #41358c,
+    #3c348f
+  );
+}
+.hero > img {
+  height: 25rem;
+  border-radius: 16px;
+  border: 0.5px solid white;
+  transform: rotate(-15deg);
+}
+.hero > img:hover {
+  transform: rotate(0deg);
+}
+.info {
+  color: white;
+}

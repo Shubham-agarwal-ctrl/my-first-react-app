@@ -1,0 +1,10 @@
+.sectionAbout {
+  padding: 2rem 5rem;
+  /* padding: 7rem 0 5rem 0; */
+}
+.about .title {
+  padding-bottom: 4rem !important;
+}
+.about .description {
+  padding-bottom: 2rem !important;
+}

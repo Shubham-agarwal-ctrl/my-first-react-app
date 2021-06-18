@@ -1,0 +1,37 @@
+.tech {
+  background-image: linear-gradient(
+    to right,
+    #4b3a84,
+    #483887,
+    #443789,
+    #41358c,
+    #3c348f
+  );
+  color: black;
+}
+.tech > .title {
+  padding-bottom: 2rem;
+}
+.tech > .description {
+  padding-bottom: 2rem;
+}
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.skill {
+  min-width: 10em;
+  margin: 1em;
+}
+.skill img {
+  height: 10em;
+}
+
+.skill .description {
+  font-size: 1rem;
+  letter-spacing: 4px;
+  font-weight: 800;
+  text-align: center;
+  padding: 1rem;
+}

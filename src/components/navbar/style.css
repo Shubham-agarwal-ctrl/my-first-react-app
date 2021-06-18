@@ -1,0 +1,46 @@
+.nav {
+  width: 100%;
+  position: fixed;
+  z-index: 99;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background-image: linear-gradient(
+    to right,
+    #4b3a84,
+    #483887,
+    #443789,
+    #41358c,
+    #3c348f
+  );
+  color: white;
+  width: 100%;
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+}
+
+.logo {
+  color: tomato;
+  font-weight: 900;
+  justify-items: center;
+}
+.links {
+  width: 10rem;
+  text-decoration: none !important;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none !important;
+  color: white;
+}
+a:visited {
+  text-decoration: none !important;
+}
+a:active {
+  text-decoration: none;
+
+  border-bottom: 0.2px solid rgb(26, 25, 25);
+}
