@@ -19,6 +19,7 @@ export default function Footer() {
             <p>+91 8171194103</p>
 
             <p>shubhamagarwal97600@gmail.com</p>
+            <p>it ok broo</p>
           </div>
         </div>
       </div>
