@@ -8,19 +8,19 @@ export default function Skill() {
       <div className="description">Technologies i work on</div>
       <div className="skills">
         <div className="skill">
-          <img src="/static/html.png" />
+          <img src="https://Shubham-agarwal-ctrl.github.io/my-first-react-app/static/html.png" />
           <p className="description">HTML</p>
         </div>
         <div className="skill">
-          <img src="/static/css.png" />
+          <img src="https://Shubham-agarwal-ctrl.github.io/my-first-react-app/static/css.png" />
           <p className="description">css</p>
         </div>
         <div className="skill">
-          <img src="/static/js.png" />
+          <img src="https://Shubham-agarwal-ctrl.github.io/my-first-react-app/static/js.png" />
           <p className="description">js</p>
         </div>
         <div className="skill">
-          <img src="/static/react.png" />
+          <img src="https://Shubham-agarwal-ctrl.github.io/my-first-react-app/static/react.png" />
           <p className="description">React</p>
         </div>
       </div>
